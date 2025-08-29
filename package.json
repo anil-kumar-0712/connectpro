@@ -1,0 +1,18 @@
+{
+  "name": "tinder-backend-project",
+  "version": "1.0.0",
+  "description": "project platform for developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "author": "anil kumar rongali",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
